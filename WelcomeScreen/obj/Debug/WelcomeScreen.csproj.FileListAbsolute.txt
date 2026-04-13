@@ -1,0 +1,7 @@
+C:\Users\gorre\Desktop\Important Files - School Related\AOLCC\Student Data - Nagadivya Gorrepati\Basic_C#_Programs\WelcomeScreen\bin\Debug\WelcomeScreen.exe.config
+C:\Users\gorre\Desktop\Important Files - School Related\AOLCC\Student Data - Nagadivya Gorrepati\Basic_C#_Programs\WelcomeScreen\bin\Debug\WelcomeScreen.exe
+C:\Users\gorre\Desktop\Important Files - School Related\AOLCC\Student Data - Nagadivya Gorrepati\Basic_C#_Programs\WelcomeScreen\bin\Debug\WelcomeScreen.pdb
+C:\Users\gorre\Desktop\Important Files - School Related\AOLCC\Student Data - Nagadivya Gorrepati\Basic_C#_Programs\WelcomeScreen\obj\Debug\WelcomeScreen.csproj.AssemblyReference.cache
+C:\Users\gorre\Desktop\Important Files - School Related\AOLCC\Student Data - Nagadivya Gorrepati\Basic_C#_Programs\WelcomeScreen\obj\Debug\WelcomeScreen.csproj.CoreCompileInputs.cache
+C:\Users\gorre\Desktop\Important Files - School Related\AOLCC\Student Data - Nagadivya Gorrepati\Basic_C#_Programs\WelcomeScreen\obj\Debug\WelcomeScreen.exe
+C:\Users\gorre\Desktop\Important Files - School Related\AOLCC\Student Data - Nagadivya Gorrepati\Basic_C#_Programs\WelcomeScreen\obj\Debug\WelcomeScreen.pdb
