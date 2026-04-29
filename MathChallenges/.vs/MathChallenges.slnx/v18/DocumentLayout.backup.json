@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gorre\\Source\\Repos\\divyagorr08-dot\\The-Tech-Academy-Basic-C-Sharp-Projects\\MathChallenges\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D68BC29B-1C36-43C0-B16F-A7D7DD1D458C}|MathChallenges.csproj|c:\\users\\gorre\\source\\repos\\divyagorr08-dot\\the-tech-academy-basic-c-sharp-projects\\mathchallenges\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68BC29B-1C36-43C0-B16F-A7D7DD1D458C}|MathChallenges.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gorre\\Source\\Repos\\divyagorr08-dot\\The-Tech-Academy-Basic-C-Sharp-Projects\\MathChallenges\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gorre\\Source\\Repos\\divyagorr08-dot\\The-Tech-Academy-Basic-C-Sharp-Projects\\MathChallenges\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwCgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T15:33:16.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

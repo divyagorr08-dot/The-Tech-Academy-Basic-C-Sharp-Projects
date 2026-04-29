@@ -1,0 +1,7 @@
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\MathChallenges\bin\Debug\MathChallenges.exe.config
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\MathChallenges\bin\Debug\MathChallenges.exe
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\MathChallenges\bin\Debug\MathChallenges.pdb
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\MathChallenges\obj\Debug\MathChallenges.csproj.AssemblyReference.cache
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\MathChallenges\obj\Debug\MathChallenges.csproj.CoreCompileInputs.cache
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\MathChallenges\obj\Debug\MathChallenges.exe
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\MathChallenges\obj\Debug\MathChallenges.pdb
