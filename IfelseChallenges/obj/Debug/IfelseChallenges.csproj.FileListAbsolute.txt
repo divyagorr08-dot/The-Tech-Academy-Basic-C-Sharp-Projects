@@ -1,0 +1,7 @@
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\IfelseChallenges\bin\Debug\IfelseChallenges.exe.config
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\IfelseChallenges\bin\Debug\IfelseChallenges.exe
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\IfelseChallenges\bin\Debug\IfelseChallenges.pdb
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\IfelseChallenges\obj\Debug\IfelseChallenges.csproj.AssemblyReference.cache
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\IfelseChallenges\obj\Debug\IfelseChallenges.csproj.CoreCompileInputs.cache
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\IfelseChallenges\obj\Debug\IfelseChallenges.exe
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\IfelseChallenges\obj\Debug\IfelseChallenges.pdb

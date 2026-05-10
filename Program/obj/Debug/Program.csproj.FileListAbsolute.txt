@@ -1,0 +1,7 @@
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\Program\bin\Debug\Program.exe.config
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\Program\bin\Debug\Program.exe
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\Program\bin\Debug\Program.pdb
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\Program\obj\Debug\Program.exe
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\Program\obj\Debug\Program.pdb
