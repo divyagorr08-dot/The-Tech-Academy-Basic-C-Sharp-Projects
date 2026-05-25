@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gorre\\Source\\Repos\\divyagorr08-dot\\The-Tech-Academy-Basic-C-Sharp-Projects\\Program2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA00BDE-A2B6-40E2-AD07-629010D1FF47}|Program2.csproj|c:\\users\\gorre\\source\\repos\\divyagorr08-dot\\the-tech-academy-basic-c-sharp-projects\\program2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA00BDE-A2B6-40E2-AD07-629010D1FF47}|Program2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gorre\\Source\\Repos\\divyagorr08-dot\\The-Tech-Academy-Basic-C-Sharp-Projects\\Program2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gorre\\Source\\Repos\\divyagorr08-dot\\The-Tech-Academy-Basic-C-Sharp-Projects\\Program2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T22:23:28.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
