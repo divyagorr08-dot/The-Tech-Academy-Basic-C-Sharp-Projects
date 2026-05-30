@@ -13,7 +13,7 @@ namespace VoidMethodAssignment
             int result = firstNumber * 5;
 
             // Display the result of the math operation
-            Console.WriteLine("The result of the math operation on the first number is: " + result);
+            // Console.WriteLine("The result of the math operation on the first number is: " + result);
 
             // Display the second number as required
             Console.WriteLine("The second number you passed in is: " + secondNumber);
