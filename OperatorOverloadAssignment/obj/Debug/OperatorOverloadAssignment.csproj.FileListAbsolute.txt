@@ -1,0 +1,7 @@
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorOverloadAssignment\bin\Debug\OperatorOverloadAssignment.exe.config
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorOverloadAssignment\bin\Debug\OperatorOverloadAssignment.exe
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorOverloadAssignment\bin\Debug\OperatorOverloadAssignment.pdb
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorOverloadAssignment\obj\Debug\OperatorOverloadAssignment.csproj.AssemblyReference.cache
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorOverloadAssignment\obj\Debug\OperatorOverloadAssignment.csproj.CoreCompileInputs.cache
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorOverloadAssignment\obj\Debug\OperatorOverloadAssignment.exe
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorOverloadAssignment\obj\Debug\OperatorOverloadAssignment.pdb
