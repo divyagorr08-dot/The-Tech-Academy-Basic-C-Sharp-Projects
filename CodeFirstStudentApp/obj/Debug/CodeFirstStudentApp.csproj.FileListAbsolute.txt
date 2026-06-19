@@ -1,0 +1,10 @@
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstStudentApp\bin\Debug\CodeFirstStudentApp.exe.config
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstStudentApp\bin\Debug\CodeFirstStudentApp.exe
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstStudentApp\bin\Debug\CodeFirstStudentApp.pdb
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstStudentApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstStudentApp\bin\Debug\EntityFramework.dll
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstStudentApp\obj\Debug\CodeFirstStudentApp.csproj.AssemblyReference.cache
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstStudentApp\obj\Debug\CodeFirstStudentApp.csproj.CoreCompileInputs.cache
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstStudentApp\obj\Debug\CodeFirs.182B5343.Up2Date
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstStudentApp\obj\Debug\CodeFirstStudentApp.exe
+C:\Users\gorre\Source\Repos\divyagorr08-dot\The-Tech-Academy-Basic-C-Sharp-Projects\CodeFirstStudentApp\obj\Debug\CodeFirstStudentApp.pdb

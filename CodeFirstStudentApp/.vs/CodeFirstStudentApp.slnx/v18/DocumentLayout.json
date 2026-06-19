@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gorre\\Source\\Repos\\divyagorr08-dot\\The-Tech-Academy-Basic-C-Sharp-Projects\\CodeFirstStudentApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0376A-2E19-4930-808F-2E6B9CD95FF8}|CodeFirstStudentApp.csproj|c:\\users\\gorre\\source\\repos\\divyagorr08-dot\\the-tech-academy-basic-c-sharp-projects\\codefirststudentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0376A-2E19-4930-808F-2E6B9CD95FF8}|CodeFirstStudentApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0376A-2E19-4930-808F-2E6B9CD95FF8}|CodeFirstStudentApp.csproj|c:\\users\\gorre\\source\\repos\\divyagorr08-dot\\the-tech-academy-basic-c-sharp-projects\\codefirststudentapp\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0376A-2E19-4930-808F-2E6B9CD95FF8}|CodeFirstStudentApp.csproj|solutionrelative:grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0376A-2E19-4930-808F-2E6B9CD95FF8}|CodeFirstStudentApp.csproj|c:\\users\\gorre\\source\\repos\\divyagorr08-dot\\the-tech-academy-basic-c-sharp-projects\\codefirststudentapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0376A-2E19-4930-808F-2E6B9CD95FF8}|CodeFirstStudentApp.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0376A-2E19-4930-808F-2E6B9CD95FF8}|CodeFirstStudentApp.csproj|c:\\users\\gorre\\source\\repos\\divyagorr08-dot\\the-tech-academy-basic-c-sharp-projects\\codefirststudentapp\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0376A-2E19-4930-808F-2E6B9CD95FF8}|CodeFirstStudentApp.csproj|solutionrelative:studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\gorre\\Source\\Repos\\divyagorr08-dot\\The-Tech-Academy-Basic-C-Sharp-Projects\\CodeFirstStudentApp\\Grade.cs",
+              "RelativeDocumentMoniker": "Grade.cs",
+              "ToolTip": "C:\\Users\\gorre\\Source\\Repos\\divyagorr08-dot\\The-Tech-Academy-Basic-C-Sharp-Projects\\CodeFirstStudentApp\\Grade.cs",
+              "RelativeToolTip": "Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T13:40:21.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "C:\\Users\\gorre\\Source\\Repos\\divyagorr08-dot\\The-Tech-Academy-Basic-C-Sharp-Projects\\CodeFirstStudentApp\\StudentContext.cs",
+              "RelativeDocumentMoniker": "StudentContext.cs",
+              "ToolTip": "C:\\Users\\gorre\\Source\\Repos\\divyagorr08-dot\\The-Tech-Academy-Basic-C-Sharp-Projects\\CodeFirstStudentApp\\StudentContext.cs",
+              "RelativeToolTip": "StudentContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T13:32:28.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\gorre\\Source\\Repos\\divyagorr08-dot\\The-Tech-Academy-Basic-C-Sharp-Projects\\CodeFirstStudentApp\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\gorre\\Source\\Repos\\divyagorr08-dot\\The-Tech-Academy-Basic-C-Sharp-Projects\\CodeFirstStudentApp\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T13:31:01.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gorre\\Source\\Repos\\divyagorr08-dot\\The-Tech-Academy-Basic-C-Sharp-Projects\\CodeFirstStudentApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gorre\\Source\\Repos\\divyagorr08-dot\\The-Tech-Academy-Basic-C-Sharp-Projects\\CodeFirstStudentApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T13:30:19.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

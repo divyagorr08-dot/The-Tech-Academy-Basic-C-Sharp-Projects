@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jYcIJ/4cBXA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gorre\\Source\\Repos\\divyagorr08-dot\\The-Tech-Academy-Basic-C-Sharp-Projects\\CodeFirstStudentApp\\CodeFirstStudentApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gorre\\.nuget\\packages\\entityframework\\6.5.2\\entityframework.6.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
